@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# Base de données et secrets
+*.db
+*.key
+*.p12
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Système
+.DS_Store
+Thumbs.db
